@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_site"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="Ir a web site UCAD" />
+
+
+        <item android:id="@+id/nav_insmateria"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Inscribir Materias" />
+
+        <item android:id="@+id/nav_materiasinscritas"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Ver materias inscritas" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_configuracion"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Configuración" />
+
+            <item android:id="@+id/nav_cerrarsesion"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>

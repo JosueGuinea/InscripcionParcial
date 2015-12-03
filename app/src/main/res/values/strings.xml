@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Inscripcion</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Splash-->
+    <string name="BarraSplash">Inscripción Online - UCAD</string>
+    <string name="mensajesplash">Inscripción Online</string>
+    <string name="mensajesplash2">Universidad Cristiana de las Asambleas de Dios</string>
+
+    <!--Principal-->
+    <string name="txtusuario">Codigo Carnét</string>
+    <string name="txtpassword">Contraseña</string>
+    <string name="msjnuevacuenta">Click aqui para crear cuenta</string>
+    <string name="btnautenticar">AUTENTICAR</string>
+
+    <!--Nuevo Usuario-->
+    <string name="BarraNewUser">Nuevo Usuario</string>
+    <string name="carnet">Carnet de estudiante</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="newpassword">Password</string>
+    <string name="confirmpassword">Confirmar Password</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="generomas">Masculino</string>
+    <string name="generofem">Femenino</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="anio">Año</string>
+    <string name="btnregistrar">GUARDAR REGISTRO</string>
+    <string name="title_activity_layout_select_carrera">layout_select_carrera</string>
+    <string name="btnacimiento">Fecha de Nacimiento</string>
+
+    <string-array name="genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+    <string-array name="meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+
+    <!--Seleccionar facultad y carrera-->
+    <string name="seleccionar_facultad">Elija su facultad</string>
+    <string name="seleccionar_carrera">Elija su carrera</string>
+    <string name="btn_carrera">Iniciar Inscripción</string>
+    <string name="title_activity_layout_inicio_inscripcion">Iniciar Inscripcion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+        <!--Menu desplazable-->
+        <string name="nameapp">Inscripcion Online UCAD</string>
+        <string name="nombreuniversidad">Universidad Cristiana de las Asambleas de Dios</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="edittext" parent="AppTheme.PopupOverlay">
+
+    </style>
+    <style name="ed1">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textColor">#888888</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+</resources>
